@@ -7,8 +7,10 @@ DERS 2: PYTHON GİRİŞ2 https://colab.research.google.com/drive/1pFhvB21chnZzCx
 
 DERS 3: VERİ BİLİMİ https://colab.research.google.com/drive/1CK-JjXkVvBPW4uGOZhs__aRN-2CyuX8R?usp=sharing
 
-DERS 4: KAGGLE TİTANİC COMPETİTİON:https://www.kaggle.com/code/tuanakaya/titanikyar-mas
+DERS 4: KAGGLE TİTANİC COMPETİTİON:https://www.kaggle.com/code/tuanakaya/titanikyarismasi
 
-DERS 5: ARAÇ FİYAT TAHMİNİ 
+DERS 5: ARAÇ FİYAT TAHMİNİ: https://colab.research.google.com/drive/1kGEzG3R1HkVhNA3SFZ1Dp8tEhIzlHYUM?usp=sharing 
 
+DERS 6: SLİDER: https://colab.research.google.com/drive/1FXdoKpa5wK8-mxYsVkIvlzCUzx-71V75?usp=sharing
 
+DERS 7: TOPLU GÖRSEL İNDİRME: 
