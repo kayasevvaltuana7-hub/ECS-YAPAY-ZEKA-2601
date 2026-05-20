@@ -13,4 +13,6 @@ DERS 5: ARAÇ FİYAT TAHMİNİ: https://colab.research.google.com/drive/1kGEzG3R
 
 DERS 6: SLİDER: https://colab.research.google.com/drive/1FXdoKpa5wK8-mxYsVkIvlzCUzx-71V75?usp=sharing
 
-DERS 7: TOPLU GÖRSEL İNDİRME: 
+DERS 7: TOPLU GÖRSEL İNDİRME: https://colab.research.google.com/drive/1jfCgXZVSE5jHD10uTQLglhA1AZB2AabD?usp=sharing
+
+DERS 8: ONLINE FORM (GRADİO İLE VERİ TOPLAMA): 
