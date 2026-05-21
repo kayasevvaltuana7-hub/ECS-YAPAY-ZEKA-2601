@@ -17,4 +17,10 @@ DERS 7: TOPLU GÖRSEL İNDİRME: https://colab.research.google.com/drive/1jfCgXZ
 
 DERS 8: ONLINE FORM (GRADİO İLE VERİ TOPLAMA): https://colab.research.google.com/drive/1n_KyKwyQW5ALBwWhqx92a-XChF-kvjeF?usp=sharing
 
-DERS 9: PANDAS İLE VERİ ÇEKME:
+DERS 9: PANDAS İLE VERİ ÇEKME:https://colab.research.google.com/drive/1qkmxCnSk6i3npK8lTOaD512zXCybPAv5?usp=sharing
+
+DERS 10: CORONA VERİ SETİ YARIŞAN GRAFİKLER: https://colab.research.google.com/drive/1TeAzpgkG5LZ4-nyLNozRlCfrFZcgfCcr?usp=sharing
+
+DERS 11: GOOGLE AI STUDIO UYGULAMALARI(GEMİNİ ENTEGRASYONU): 
+
+DERS 12:GOOGLE TRENDS:
