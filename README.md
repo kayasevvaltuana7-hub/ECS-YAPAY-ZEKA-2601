@@ -15,4 +15,6 @@ DERS 6: SLİDER: https://colab.research.google.com/drive/1FXdoKpa5wK8-mxYsVkIvlz
 
 DERS 7: TOPLU GÖRSEL İNDİRME: https://colab.research.google.com/drive/1jfCgXZVSE5jHD10uTQLglhA1AZB2AabD?usp=sharing
 
-DERS 8: ONLINE FORM (GRADİO İLE VERİ TOPLAMA): 
+DERS 8: ONLINE FORM (GRADİO İLE VERİ TOPLAMA): https://colab.research.google.com/drive/1n_KyKwyQW5ALBwWhqx92a-XChF-kvjeF?usp=sharing
+
+DERS 9: PANDAS İLE VERİ ÇEKME:
