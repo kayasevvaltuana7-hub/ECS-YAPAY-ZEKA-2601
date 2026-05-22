@@ -21,6 +21,16 @@ DERS 9: PANDAS İLE VERİ ÇEKME:https://colab.research.google.com/drive/1qkmxCn
 
 DERS 10: CORONA VERİ SETİ YARIŞAN GRAFİKLER: https://colab.research.google.com/drive/1TeAzpgkG5LZ4-nyLNozRlCfrFZcgfCcr?usp=sharing
 
-DERS 11: GOOGLE AI STUDIO UYGULAMALARI(GEMİNİ ENTEGRASYONU): 
+DERS 11: GOOGLE AI STUDIO UYGULAMALARI(GEMİNİ ENTEGRASYONU): https://ai.studio/apps/drive/1EbNEFuqroBP0viOwMFJK8eUmhigjFy30
 
-DERS 12:GOOGLE TRENDS:
+DERS 12:GOOGLE TRENDS:https://colab.research.google.com/drive/1e6CWH3ClhCDD4k0xRatBrHXk3H5D8bnk?usp=sharing
+
+ÖDEV:https://colab.research.google.com/drive/196795lkIonQ9M0wl0DthUu8_GHU-F6MZ?usp=sharing
+
+DERS 14: FİNANS VERİLERİ ÇEKME: https://colab.research.google.com/drive/1xIyFoTIUWBlWZFkTIP0I5iGtF7ZF1YiL?usp=sharing
+
+DERS 15:OPEN WEATHER API ile hava durumu:https://colab.research.google.com/drive/18uowxSEU5722UGhtVB34sHl5ej7r3Gez?usp=sharing
+
+DERS 16:MÜŞTERİ TERK (CHURN) ANALİZİ:https://colab.research.google.com/drive/1ALOGxxEKWCiqb9Qbw8dUHxoOVDwrBqdt?usp=sharing
+
+DERS 17: ZAMAN SERİSİ ANALİZİ:https://colab.research.google.com/drive/1Wt4GIgyYFkmpJvg4qDmNc1Fq69g8TWAK?usp=sharing
