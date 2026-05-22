@@ -45,11 +45,11 @@ DERS 21:OPENCV WEBCAM UYGULAMALARI:https://colab.research.google.com/drive/1qC56
 
 DERS 22:DEEP LEARNING(MNİST UYGULAMALARI):https://colab.research.google.com/drive/1AOOHPxOmNGrkuXI02_gPBf7e9w_cPf2H?usp=sharing
 
-DERS 23:DEEP LEARNING KERAS ANN-LİNEAR REGRESSİON KARŞILAŞTIRMASI:
+DERS 23:DEEP LEARNING KERAS ANN-LİNEAR REGRESSİON KARŞILAŞTIRMASI:https://colab.research.google.com/drive/1UuQYfU8OqVZ5rWUQVwJ6UPEjy3oYc7vm?usp=sharing
 
-DERS 24:NLP-DOĞAL DİL İŞLEMENİN TEMELLERİ:
+DERS 24:NLP-DOĞAL DİL İŞLEMENİN TEMELLERİ:https://colab.research.google.com/drive/1jYAQGLdblhUoiWA87-ca5UIKducEvg4O?usp=sharing
 
-DERS 25:NLP- YOUTUBE METİN SINIFLANDIRICI VE DEPLOY:
+DERS 25:NLP- YOUTUBE METİN SINIFLANDIRICI VE DEPLOY:https://colab.research.google.com/drive/1G66EWTJJEhqEm4Xa6NtznKdd-HeKANVk?usp=sharing
 
 DERS 26:KELİME BULUTU:
 
