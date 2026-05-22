@@ -34,3 +34,30 @@ DERS 15:OPEN WEATHER API ile hava durumu:https://colab.research.google.com/drive
 DERS 16:MÜŞTERİ TERK (CHURN) ANALİZİ:https://colab.research.google.com/drive/1ALOGxxEKWCiqb9Qbw8dUHxoOVDwrBqdt?usp=sharing
 
 DERS 17: ZAMAN SERİSİ ANALİZİ:https://colab.research.google.com/drive/1Wt4GIgyYFkmpJvg4qDmNc1Fq69g8TWAK?usp=sharing
+
+DERS 18: DETAYLI ADİDAS VERİ ANALİZİ:https://colab.research.google.com/drive/1vpQoXOW8AqieqKkRIjz-W4N6DNYFGFdc?usp=sharing
+
+DERS 19:ÖNERİ SİSTEMLERİ (FİLM ÖNERİ SİSTEMİ):https://colab.research.google.com/drive/1-VpIuCSyEEbE3ofPn8MU4CyQ1yMfZNPR?usp=sharing
+
+DERS 20:OPENCV İLE GÖRÜNTÜ İŞLEME:https://colab.research.google.com/drive/1KmtzSMdaaibRNIk8w36fmvCJLADqiPB0?usp=sharing
+
+DERS 21:OPENCV WEBCAM UYGULAMALARI:https://colab.research.google.com/drive/1qC56Rw4OzyIjX7jgtf40HT7hzw58W_8T?usp=sharing
+
+DERS 22:DEEP LEARNING(MNİST UYGULAMALARI):https://colab.research.google.com/drive/1AOOHPxOmNGrkuXI02_gPBf7e9w_cPf2H?usp=sharing
+
+DERS 23:DEEP LEARNING KERAS ANN-LİNEAR REGRESSİON KARŞILAŞTIRMASI:
+
+DERS 24:NLP-DOĞAL DİL İŞLEMENİN TEMELLERİ:
+
+DERS 25:NLP- YOUTUBE METİN SINIFLANDIRICI VE DEPLOY:
+
+DERS 26:KELİME BULUTU:
+
+DERS 27:HF MODEL KULLANIMI TRANSFORMERS:
+
+DERS 28:HF MODEL KULLANIMI FB TRANSLATER:
+
+DERS 29:HF MOEL KULLANIMI OBJECT DETECTİON
+
+DERS 30:HF MOEL KULLANIMI OBJECT DETECTİON 3 FARKLI YOL
+
